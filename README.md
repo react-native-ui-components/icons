@@ -1,1 +1,29 @@
-# `@react-native-ui-components/icons`
+# @react-native-ui-components/icons
+
+Icons module for React Native
+
+## Installation
+
+```sh
+npm install @react-native-ui-components/icons
+```
+
+## Usage
+
+```js
+import {} from '@react-native-ui-components/icons';
+
+// ...
+```
+
+## Contributing
+
+See the [contributing guide](CONTRIBUTING.md) to learn how to contribute to the repository and the development workflow.
+
+## License
+
+MIT
+
+---
+
+Made with [create-react-native-library](https://github.com/callstack/react-native-builder-bob)
