@@ -2905,7 +2905,7 @@ __metadata:
     "@react-native-ui-components/typescript-config": ^1.0.0
     "@release-it/conventional-changelog": ^5.0.0
     "@types/jest": ^28.1.2
-    "@types/react": ~17.0.21
+    "@types/react": ~18.2.32
     "@types/react-native": 0.70.0
     commitlint: ^17.0.2
     del-cli: ^5.0.0
@@ -3458,14 +3458,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@types/react@npm:17.0.21":
-  version: 17.0.21
-  resolution: "@types/react@npm:17.0.21"
+"@types/react@npm:18.2.32":
+  version: 18.2.32
+  resolution: "@types/react@npm:18.2.32"
   dependencies:
     "@types/prop-types": "*"
     "@types/scheduler": "*"
     csstype: ^3.0.2
-  checksum: a590bd2e50e4ec0b1957388e198cf248bac3051e525e036901dea10f7d12203bf1c58350aa899e66494cbf8a60ee56402522273866c29748217f72552bb27d04
+  checksum: dad139dd165c4ce2364d1849af4e022746adc73f1a35bb5e0c95dbfee4732637de709504440c518e0177898aaf151b7a6b34019c8e398ea2e919dcfc4d79198f
   languageName: node
   linkType: hard
 
