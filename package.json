@@ -51,7 +51,7 @@
 		"access": "public"
 	},
 	"devDependencies": {
-		"@commitlint/config-conventional": "^17.0.2",
+		"@commitlint/config-conventional": "^18.4.2",
 		"@evilmartians/lefthook": "^1.5.0",
 		"@react-native-ui-components/eslint-config": "^1.0.5",
 		"@react-native-ui-components/prettier-config": "^1.0.0",
