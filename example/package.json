@@ -27,7 +27,7 @@
 		"babel-plugin-react-native-web": "^0.19.9",
 		"html-webpack-plugin": "^5.5.3",
 		"metro-react-native-babel-preset": "0.76.8",
-		"pod-install": "^0.1.0",
+		"pod-install": "^0.2.0",
 		"url-loader": "^4.1.1",
 		"webpack": "^5.89.0",
 		"webpack-cli": "^5.1.4",
